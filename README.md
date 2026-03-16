@@ -2,7 +2,7 @@
 
 Passive subdomain enumeration tool with DNS validation and HTTP 200 status checks.
 
-SubS.py aggregates subdomains from multiple free, passive intelligence sources, verifies which ones resolve via DNS, and finally checks which hosts return an HTTP **200 OK** response over HTTP/HTTPS.
+SubS aggregates subdomains from multiple free, passive intelligence sources, verifies which ones resolve via DNS, and finally checks which hosts return an HTTP **200 OK** response over HTTP/HTTPS.
 
 > Built for bug bounty hunters, pentesters, and recon enthusiasts who want a fast, no‑API‑key subdomain workflow.
 
