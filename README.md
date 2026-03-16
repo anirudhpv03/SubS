@@ -1,4 +1,4 @@
-# SubS.py
+# SubS
 
 Passive subdomain enumeration tool with DNS validation and HTTP 200 status checks.
 
